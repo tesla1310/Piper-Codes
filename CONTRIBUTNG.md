@@ -14,5 +14,9 @@ Please try to contribute the code in the c++ and Java only.
 3. Write the clean code without unnecary declarations. Psuedocode are also welcome.
 4. Name the file with the problem/DSA name only with proper extension.
 
+# For programming contests solution
+Add to the respective platform folder with a subfolder with round name.
+Make a new folder for above if not present.
+
 
 Thank you for contribution :)
