@@ -10,7 +10,7 @@ Please try to contribute the code in the c++ and Java only.
 # Code Pattern
 
 1. Start with the question link you are solving in case of a problem solution.
-2. Mention the problem statement overview with a sample i/o if possible.
+2. Mention the problem statement overview with a sample i/o if possible. (Optional)
 3. Write the clean code without unnecary declarations. Psuedocode are also welcome.
 4. Name the file with the problem/DSA name only with proper extension.
 
