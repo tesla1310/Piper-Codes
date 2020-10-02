@@ -1,3 +1,6 @@
+//Question link:
+//http://codeforces.com/contest/1426/problem/C
+
 #include <bits/stdc++.h>
 #include <iomanip>
 using namespace std;
